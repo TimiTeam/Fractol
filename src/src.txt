@@ -1,0 +1,15 @@
+Here you can set some options and see Help
+Julia  - click 'J'
+Mandelbrot - click 'M'
+Burning Ship  - click 'B'
+Author  - click 'T'
+Reset  - click 'R'
+Hide/Show the Tip - click 'H'
+Iteratio/Color (+/-): 
+To change Colors use '1', '2' or '3' button
+In this color palette You can change RGB value.
+Just press the 'C' button to switch between colors
+Stop moving  - 'Space'
+Hide/Show the Tip - 'H'
+Reset  - 'R'
+Menu   - 'Q'
